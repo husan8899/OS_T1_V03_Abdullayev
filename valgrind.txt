@@ -1,0 +1,8 @@
+==2468== Memcheck, a memory error detector
+==2468== HEAP SUMMARY:
+==2468==     in use at exit: 0 bytes in 0 blocks
+==2468==   total heap usage: 1 allocs, 1 frees, 400 bytes allocated
+==2468==
+==2468== All heap blocks were freed -- no leaks are possible
+==2468==
+==2468== ERROR SUMMARY: 0 errors from 0 contexts
